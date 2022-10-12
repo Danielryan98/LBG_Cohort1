@@ -1,3 +1,7 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 h1 {
     color:firebrick;
     
@@ -5,4 +9,48 @@ h1 {
 
 p {
     color: dodgerblue;
+}
+
+.div-outer {
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    border-color: firebrick;
+    background-color: dodgerblue;
+}
+
+.div-inner1 {
+    height: 180px;
+    width: 180px;
+    border-radius: 50px;
+    border-color: dodgerblue;
+    background-color: firebrick;
+}
+.div-inner2 {
+    height: 160px;
+    width: 160px;
+    border-radius: 50px;
+    border-color: dodgerblue;
+    background-color: burlywood;
+}
+.div-inner3 {
+    height: 140px;
+    width: 140px;
+    border-radius: 50px;
+    border-color: dodgerblue;
+    background-color: floralwhite;
+}
+.div-inner4 {
+    height: 120px;
+    width: 120px;
+    border-radius: 50px;
+    border-color: dodgerblue;
+    background-color: seagreen;
+}
+.div-inner5 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border-color: dodgerblue;
+    background-color: plum;
 }
