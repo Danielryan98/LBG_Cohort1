@@ -8,12 +8,18 @@ h1 {
 }
 
 h2 {
-    color:magenta;
-    
+    color:tomato;
+
 }
 
 p {
     color: dodgerblue;
+}
+
+li {
+    background-color: maroon;
+    color: aliceblue;
+    
 }
 
 .div-outer {
